@@ -1,8 +1,8 @@
-# 🚀 TalentFlow - Outstanding Hiring Platform
+# TalentFlow - Outstanding Hiring Platform
 
 A comprehensive React-based hiring platform that enables HR teams to manage jobs, candidates, and assessments with a modern, intuitive, and scalable interface — featuring real-time data updates, offline support, customizable workflows, and performance optimizations designed for enterprise-grade recruitment.
 
-## 🏃‍♂️ Quick Start Guide
+##  Quick Start Guide
 
 ### Step 1: System Requirements
 - Node.js (v16 or higher)
@@ -41,7 +41,7 @@ npm run build
 npm run analyze
 ```
 
-## ✨ Features Implemented
+##  Features Implemented
 
 ### ✅ Core Foundation
 - **React 19** with modern hooks and functional components
@@ -74,7 +74,7 @@ npm run analyze
 - **Timeline Events** for candidate tracking
 - **Notes System** with @mention support (ready)
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Project Structure
 ```
@@ -102,7 +102,7 @@ src/
 - **Icons**: Heroicons
 - **Notifications**: React Hot Toast
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 16+ and npm
@@ -130,7 +130,7 @@ The app automatically seeds the database with:
 - 3+ assessment templates with multiple question types
 - Timeline events and candidate relationships
 
-## 🎯 Technical Highlights
+##  Technical Highlights
 
 ### Performance Optimizations
 - **Virtualized Lists** for large candidate datasets
@@ -150,7 +150,7 @@ The app automatically seeds the database with:
 - **Error Boundaries** for graceful failure handling
 - **Comprehensive Testing** setup ready
 
-## 🔧 Development Guidelines
+## Development Guidelines
 
 ### Environment Setup
 1. Install recommended VS Code extensions:
@@ -220,7 +220,7 @@ export const newHandlers = [
 ];
 ```
 
-## 🚀 Deployment
+##  Deployment
 
 ### Build for Production
 ```bash
@@ -233,7 +233,7 @@ npm run build
 3. Set output directory: `build`
 4. Deploy!
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 ### Bundle Size
 - Initial bundle: ~200KB gzipped
